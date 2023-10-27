@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ertuerk-faruk-business
+- 👋 Hi, I’m Faruk Ertürk
 
 <!---
 ertuerk-faruk-business/ertuerk-faruk-business is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
