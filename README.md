@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Faruk Ertürk
-- 🤝 CEO of Vendera Trading Company
 - 👨‍💻 Programmer (Web / App / Game)
 - 👨‍🎨 UI/UX Design
 <!---
